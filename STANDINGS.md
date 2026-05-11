@@ -2,13 +2,14 @@
 
 Running scoreboard. Maintained by scoreboard_agent. Updated after every receipt closes.
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-10 19:19 PT_
 
 ## Lifetime paper P&L
 
 | Metric | Value |
 |--------|-------|
-| Total calls | 0 |
+| Total calls | 1 |
+| Pending | 1 |
 | Hits | 0 |
 | Misses | 0 |
 | Hit rate | n/a |
@@ -21,7 +22,7 @@ _Last updated: 2026-05-10_
 
 | Date | Ticker | Agent | Call | Result | Move | Paper P&L |
 |------|--------|-------|------|--------|------|-----------|
-| _no entries yet_ | | | | | | |
+| 2026-05-10 | NBIS | earnings_agent | not sized | _pending 5/13 BMO_ | _pending_ | $0 |
 
 ---
 
