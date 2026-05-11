@@ -2,14 +2,14 @@
 
 Running scoreboard. Maintained by scoreboard_agent. Updated after every receipt closes.
 
-_Last updated: 2026-05-10 19:19 PT_
+_Last updated: 2026-05-10 20:55 PT_
 
 ## Lifetime paper P&L
 
 | Metric | Value |
 |--------|-------|
-| Total calls | 1 |
-| Pending | 1 |
+| Total calls | 3 |
+| Pending | 3 |
 | Hits | 0 |
 | Misses | 0 |
 | Hit rate | n/a |
@@ -23,6 +23,8 @@ _Last updated: 2026-05-10 19:19 PT_
 | Date | Ticker | Agent | Call | Result | Move | Paper P&L |
 |------|--------|-------|------|--------|------|-----------|
 | 2026-05-10 | NBIS | earnings_agent | not sized | _pending 5/13 BMO_ | _pending_ | $0 |
+| 2026-05-10 | PL | locker_agent | pilot long (50 sh) | _pending 5/16 close_ | _pending_ | _pending_ |
+| 2026-05-10 | RKLB | locker_agent | pilot long (25 sh) | _pending 5/16 close_ | _pending_ | _pending_ |
 
 ---
 
