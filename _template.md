@@ -6,6 +6,16 @@
 **Sector:** [sector]
 **Days in locker:** N
 
+## Thesis
+
+**Signal cluster:** [signals that fired, e.g. new_high + buzz + reclaim + rsi_hit]
+**Regime at entry:** [BULL | CHOP | BEAR]
+**Pattern bet:** [one sentence -- what this setup type historically does, and why now]
+
+## Precedents
+
+[OB1 at entry: search_thoughts "similar setup {TICKER} signals" -- paste top 2-3 results, or "none found"]
+
 ## Setup
 
 [catalyst, scan stack, sector context, days on list, why this name now]
@@ -56,6 +66,13 @@ Risk: [one line, asymmetric]
 ## What the agent got wrong
 
 [one line]
+
+## Outcome Chain
+
+**What moved it:** [actual catalyst or market force that drove the result]
+**Thesis held:** [yes | partially | no -- which part of the signal pattern was right]
+**Thesis failed:** [what was missed or mispriced]
+**Next time:** [one line -- what changes in entry criteria or sizing for a similar setup]
 
 ## Paper P&L
 
