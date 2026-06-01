@@ -5,6 +5,17 @@
 **Sector:** Space / aerospace
 **Trigger:** SpaceX IPO speculation + RKLB earnings blowout Friday 5/8
 
+## Thesis
+
+**Signal cluster (RKLB):** post-print continuation, earnings blowout (+63.5% rev, record $2.2B backlog, 4x volume on print day), defense contracts, SpaceX IPO sector momentum
+**Signal cluster (PL):** sector beta, first profitable year, backlog +79% YoY, ATH attempt (~7% away), EMAs stacked bullish
+**Regime at entry:** BULL (space sector running, defense modernization spend, SpaceX IPO speculation sustained)
+**Pattern bet:** Post-print continuation on RKLB (buying the proof, not the rumor) + sector beta on PL; pilot sizing because both names stretched +88-95% off 3-month lows -- no asymmetric entry, just confirmed momentum.
+
+## Precedents
+
+[OB1 at entry: none found -- early Paper Receipt; no prior space basket setups on record]
+
 ## Sector setup
 
 Space stocks are running on two converging catalysts:
@@ -175,6 +186,13 @@ What the agent missed:
 - Correlated basket risk materialized slightly on 5/15 (RKLB -6%, PL -3.4%) as both pulled back simultaneously -- confirming the pre-trade risk disclosure.
 
 **Portable lesson:** When a name prints a blowout quarter AND the sector has a macro tailwind, post-print continuation can extend well beyond a 5-day window. A time-based exit works for receipt clarity; a momentum-based exit (e.g., first close below 4 EMA) would have improved execution on RKLB. For future basket receipts, declare a trailing rule alongside the fixed-date exit.
+
+## Outcome Chain
+
+**What moved it:** SpaceX IPO speculation sustained the full window + defense spend flow + RKLB post-print continuation into sector tailwind; ARKX flat while individual names captured all the beta
+**Thesis held:** yes on RKLB continuation (ran from $105 to $132.55 peak); yes on sector momentum being real; yes on pilot sizing discipline preserving capital
+**Thesis failed:** PL didn't break ATH ($41.71) in the window; RKLB optimal exit was Thursday 5/14 ($132.55) not Friday 5/15 ($124.77) -- time-based exit cost ~$8/sh vs trailing stop; correlated basket drawdown on 5/15 materialized exactly as flagged
+**Next time:** for post-print continuation baskets, declare a trailing rule (first close below 4 EMA) alongside fixed-date exit; RKLB-type setups with momentum above key EMA can hold past a 5-day window
 
 ## Promotion status
 
